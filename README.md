@@ -28,12 +28,12 @@ To program the App, the Flutter IDE will be used.
 ### Group Number : 22
 
 ### Members
-- Amritpal Singh Parihar - 40174714
-- Sriram Kanagalingham - 40170212
-- Bachar Alshabab - 40185132
-- Gabriel Brodeur - 40177757
-- Sarmad Sabbagh - 40080889
-- Abdelaziz Mekkaoui - 40192247
+- Amritpal Singh Parihar 
+- Sriram Kanagalingham 
+- Bachar Alshabab 
+- Gabriel Brodeur 
+- Sarmad Sabbagh 
+- Abdelaziz Mekkaoui 
 
 ## Groups & Roles
 ### Hardware
